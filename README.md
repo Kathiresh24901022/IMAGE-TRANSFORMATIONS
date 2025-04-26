@@ -32,8 +32,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ```python
-Developed By:Mahajanani.R
-Register Number:212224230147
+Developed By:kathiresh.M
+Register Number:24901022
 
 # Function to display image using Matplotlib
 import cv2
